@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RamONandOFF
+- 👋 Hi, I’m Ramon Ribeiro
 - 👀 I’m interested in Data Analyst, Technology and Learning about the field!
 - 🌱 I’m currently learning Python for Data Analysis.
 - 📫 How to reach me:
