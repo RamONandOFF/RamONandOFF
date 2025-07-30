@@ -23,7 +23,7 @@ Atualmente estou me especializando em SQL, Power BI e Python voltado para análi
 
 ### 📁 Projetos em destaque
 
-🔸 [Top 10 Produtos Mais Vendidos - Contoso](https://github.com/seuusuario/top-10-produtos-contoso)  
+🔸 [Top 10 Produtos Mais Vendidos - Contoso](https://github.com/RamONandOFF/top-10-produtos-contoso)  
 
 
 ---
