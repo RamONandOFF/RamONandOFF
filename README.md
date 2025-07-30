@@ -3,6 +3,7 @@
 ### 👨‍💻 Sobre mim
 
 Sou formado em Direito e, nos últimos anos, mergulhei no mundo da tecnologia e da análise de dados.
+
 Atualmente estou me especializando em SQL, Power BI e Python voltado para análise de dados.
 
 💼 Buscando minha **primeira oportunidade como Analista de Dados Júnior**.  
