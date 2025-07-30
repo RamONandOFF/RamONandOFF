@@ -2,11 +2,12 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou formado em Direito e, nos últimos anos, mergulhei no mundo da tecnologia e da análise de dados. Atualmente estou me especializando em SQL, Power BI e Python voltado para análise de dados.
+Sou formado em Direito e, nos últimos anos, mergulhei no mundo da tecnologia e da análise de dados.
+Atualmente estou me especializando em SQL, Power BI e Python voltado para análise de dados.
 
 💼 Buscando minha **primeira oportunidade como Analista de Dados Júnior**.  
 📊 Foco em dados, visualização e resolução de problemas com SQL.  
-📍 Disponível para trabalho remoto ou presencial em Curitiba.
+📍 Disponível para trabalho remoto ou presencial em Curitiba e São José dos Pinhais.
 
 ---
 
@@ -22,7 +23,7 @@ Sou formado em Direito e, nos últimos anos, mergulhei no mundo da tecnologia e 
 ### 📁 Projetos em destaque
 
 🔸 [Top 10 Produtos Mais Vendidos - Contoso](https://github.com/seuusuario/top-10-produtos-contoso)  
-🔸 Em breve: Receita por Região, Faturamento por Categoria, Dashboard Power BI...
+
 
 ---
 
@@ -35,7 +36,7 @@ Sou formado em Direito e, nos últimos anos, mergulhei no mundo da tecnologia e 
 ### 💡 Curiosidades
 
 - 🎯 Transição de carreira com muito estudo e prática real
-- 🚀 Faço projetos reais com bancos como Contoso e AdventureWorks
+- 🚀 Crio projetos reais utilizando Banco de dados simulados
 - 📚 Gosto de aprender explicando e compartilhando
 
 ---
